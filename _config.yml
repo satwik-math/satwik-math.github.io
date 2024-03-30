@@ -2,9 +2,9 @@
 title: Satwik Mukherjee
 # logo : 
 show_downloads: true
-description: A simple website built with Jekyll
-baseurl: "/"
+# description: A simple website built with Jekyll
+# baseurl: "/"
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 theme: jekyll-theme-minimal
