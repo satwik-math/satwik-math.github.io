@@ -1,0 +1,10 @@
+# Site settings
+title: My Jekyll Website
+# logo : 
+show_downloads: true
+description: A simple website built with Jekyll
+baseurl: "/"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
