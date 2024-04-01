@@ -3,5 +3,4 @@
 ### Education
 Mathematics, PhD
 
-### Work Experience
 
