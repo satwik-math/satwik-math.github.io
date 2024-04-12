@@ -1,4 +1,8 @@
-# [Homepage](https://satwikapplied.github.io/portfolio/) \| [Research](https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en)
+# [Homepage](https://satwikapplied.github.io/portfolio/)
+
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+
+[Homepage](https://satwikapplied.github.io/portfolio/) \| [Research](https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en)
 
 
 ### Welcome!
