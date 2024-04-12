@@ -1,4 +1,4 @@
-# [Homepage](https://satwikapplied.github.io/portfolio/){style="font-size: smaller;"} [Research](https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en)
+# <a href="https://satwikapplied.github.io/portfolio/" style="font-size: smaller; color: gray">Homepage</a> <a href="https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en" style="font-size: smaller; color: gray">Research</a>
 
 ### Welcome!
 
