@@ -1,4 +1,4 @@
-# <a href="https://satwikapplied.github.io/portfolio/" style="font-size: smaller; color: gray">Homepage</a> <a href="https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en" style="font-size: smaller; color: gray">Research</a>
+# <a href="https://satwikapplied.github.io/portfolio/" style="font-size: smaller; color: gray">Homepage</a> <a href="https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en" style="font-size: smaller; color: gray">Research</a> <a href="https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en" style="font-size: smaller; color: gray">CV</a> <a href="https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en" style="font-size: smaller; color: gray">Contact</a>
 
 ### Welcome!
 
