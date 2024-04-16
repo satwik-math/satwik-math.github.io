@@ -1,4 +1,15 @@
 # Site settings
+##title: Satwik Mukherjee
+# logo : 
+# show_downloads: true
+# description: A simple website built with Jekyll
+# baseurl: "/"
+
+# Build settings
+# markdown: kramdown
+##theme: jekyll-theme-minimal
+
+---
 title: Satwik Mukherjee
 # logo : 
 # show_downloads: true
@@ -8,4 +19,46 @@ title: Satwik Mukherjee
 # Build settings
 # markdown: kramdown
 theme: jekyll-theme-minimal
+header:
+  navigation:
+    - title: Homepage
+      url: https://satwikapplied.github.io/portfolio/
+    - title: Research
+      url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
+    - title: CV
+      url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
+    - title: Contact
+      url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+</head>
+<body>
+
+<header>
+  <h1>{{ page.title }}</h1>
+  <nav>
+    {% for item in page.header.navigation %}
+      <a href="{{ item.url }}" style="font-size: smaller; color: gray; margin-right: 10px;">{{ item.title }}</a>
+    {% endfor %}
+  </nav>
+</header>
+
+<main>
+  <img src="path/to/your/photo.jpg" alt="Your Photo" style="width: 150px; height: auto;">
+  <p>Your content here...</p>
+</main>
+
+<footer>
+  <p>Footer content...</p>
+</footer>
+
+</body>
+</html>
+
 
