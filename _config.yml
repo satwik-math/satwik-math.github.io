@@ -50,7 +50,7 @@ header:
 </header>
 
 <main>
-  <img src="path/to/your/photo.jpg" alt="Your Photo" style="width: 150px; height: auto;">
+  <img src="https://drive.google.com/file/d/1ll_JYr3oibrMUVbMpUpnHR_VKvfBG5ja/view?usp=drive_link" alt="Your Photo" style="width: 150px; height: auto;">
   <p>Your content here...</p>
 </main>
 
