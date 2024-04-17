@@ -4,14 +4,12 @@ theme: jekyll-theme-minimal
 header:
   navigation:
     - title: Homepage
-      url: https://satwikapplied.github.io/portfolio/
+      url: https://satwik-math.github.io/
     - title: Research
       url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
     - title: CV
       url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
-    - title: Contact
-      url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
-    - title: Google Scholar
+    - title: Contacts
       url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
 ---
 
