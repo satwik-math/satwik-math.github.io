@@ -1,23 +1,5 @@
-# Site settings
-##title: Satwik Mukherjee
-# logo : 
-# show_downloads: true
-# description: A simple website built with Jekyll
-# baseurl: "/"
-
-# Build settings
-# markdown: kramdown
-##theme: jekyll-theme-minimal
-
 ---
 title: Satwik Mukherjee
-# logo : 
-# show_downloads: true
-# description: A simple website built with Jekyll
-# baseurl: "/"
-
-# Build settings
-# markdown: kramdown
 theme: jekyll-theme-minimal
 header:
   navigation:
@@ -50,7 +32,7 @@ header:
 </header>
 
 <main>
-  <img src="https://drive.google.com/file/d/1ll_JYr3oibrMUVbMpUpnHR_VKvfBG5ja/view?usp=drive_link" alt="Your Photo" style="width: 150px; height: auto;">
+  <img src="https://drive.google.com/uc?id=1ll_JYr3oibrMUVbMpUpnHR_VKvfBG5ja" alt="Your Photo" style="width: 150px; height: auto;">
   <p>Your content here...</p>
 </main>
 
@@ -60,5 +42,3 @@ header:
 
 </body>
 </html>
-
-
