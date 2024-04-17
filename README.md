@@ -1,3 +1,5 @@
+# <a href="https://satwikapplied.github.io/portfolio/" style="font-size: 10px; color: gray; margin-right: 10px">Homepage</a> <a href="https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en" style="font-size: 10px; color: gray; margin-right: 10px">Research</a> <a href="https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en" style="font-size: smaller; color: gray; margin-right: 10px">CV</a> <a href="https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en" style="font-size: smaller; color: gray">Contact</a>
+
 ### Welcome!
 
 - PhD in Applied Mathematics at Jadavpur University. 
