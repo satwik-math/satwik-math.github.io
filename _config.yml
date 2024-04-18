@@ -1,42 +1,7 @@
 ---
 title: Satwik Mukherjee
+logo: assets/images/Photo_SM.jpg
 theme: jekyll-theme-minimal
-header:
-  navigation:
-    - title: Homepage
-      url: https://satwik-math.github.io/
-    - title: Research
-      url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
-    - title: CV
-      url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
-    - title: Contacts
-      url: https://scholar.google.com/citations?user=n1hMxt0AAAAJ&hl=en
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>{{ page.title }}</title>
-</head>
-<body>
 
-<header>
-  <h1>{{ page.title }}</h1>
-  <nav>
-    {% for item in page.header.navigation %}
-      <a href="{{ item.url }}" style="font-size: smaller; color: gray; margin-right: 10px;">{{ item.title }}</a>
-    {% endfor %}
-  </nav>
-</header>
-
-<main>
-  <img src="https://drive.google.com/uc?id=1ll_JYr3oibrMUVbMpUpnHR_VKvfBG5ja" alt="Your Photo" style="width: 150px; height: auto;">
-  <p>Your content here...</p>
-</main>
-
-<footer>
-  <p>Footer content...</p>
-</footer>
-
-</body>
-</html>
